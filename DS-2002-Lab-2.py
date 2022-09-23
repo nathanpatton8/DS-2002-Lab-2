@@ -4,7 +4,7 @@ Created on Fri Sep 23 15:20:13 2022
 
 @author: natha
 """
-#Link to Repo
+#Link to Repo: https://github.com/nathanpatton8/DS-2002-Lab-2.git
 
 
 #importing the sqlite3 library
